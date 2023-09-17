@@ -2,7 +2,9 @@
 <h3 align="center">Derribando relatos, un dato a la vez.</h3>
 
 [![X](https://img.shields.io/badge/X-@MenosRelato-blue?logo=twitter&logoColor=1D9BF0&labelColor=black)](https://x.com/MenosRelato)
+[![Medium](https://img.shields.io/badge/Medium-@MenosRelato-FFD300?logo=medium&logoColor=FFD300&labelColor=black)](https://medium.com/@MenosRelato)
 [![YouTube](https://img.shields.io/badge/YouTube-@MenosRelato-red?logo=youtube&logoColor=red&labelColor=black)](https://www.youtube.com/@MenosRelato)
+
 
 <p>
 <picture>
