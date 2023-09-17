@@ -1,14 +1,8 @@
 <p align="center">
-<table>
-  <tr>
-    <td>
-      <h1>Hola 👋, somos Menos Relato</h1>
-    </td>
-    <td valign="text-top">
-      <image src="./icon.svg" width="32" height="32" />
-    </td>
-  </tr>
-</table>
+  <h1>Hola 👋, somos Menos Relato
+  <image src="./icon.svg" width="32" height="32" />
+  </h1>
+</p>
 
 <h3 align="center">Derribando relatos, un dato a la vez.</h3>
 
