@@ -1,4 +1,15 @@
-<h1 align="center">Hola 👋, somos Menos Relato</h1>
+<p align="center">
+<table>
+  <tr>
+    <td>
+      <h1>Hola 👋, somos Menos Relato</h1>
+    </td>
+    <td valign="text-top">
+      <image src="./icon.svg" width="32" height="32" />
+    </td>
+  </tr>
+</table>
+
 <h3 align="center">Derribando relatos, un dato a la vez.</h3>
 
 [![X](https://img.shields.io/badge/X-@MenosRelato-blue?logo=twitter&logoColor=1D9BF0&labelColor=black)](https://x.com/MenosRelato)
